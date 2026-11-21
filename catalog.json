@@ -1,6 +1,18 @@
 {
   "house": [
     {
+      "filename": "house_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema house",
+      "license": "Original",
+      "bytes": 26610
+    },
+    {
+      "filename": "house_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema house",
+      "license": "Original",
+      "bytes": 27423
+    },
+    {
       "filename": "house_01.jpg",
       "source": "File:Abandoned house in Teriberka.jpg",
       "license": "CC0",
@@ -14,6 +26,18 @@
     }
   ],
   "forest": [
+    {
+      "filename": "forest_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema forest",
+      "license": "Original",
+      "bytes": 33856
+    },
+    {
+      "filename": "forest_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema forest",
+      "license": "Original",
+      "bytes": 33345
+    },
     {
       "filename": "forest_01.jpg",
       "source": "File:Foggy Forest - Castel Vittorio, Liguria.jpg",
@@ -29,6 +53,18 @@
   ],
   "street": [
     {
+      "filename": "street_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema street",
+      "license": "Original",
+      "bytes": 29932
+    },
+    {
+      "filename": "street_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema street",
+      "license": "Original",
+      "bytes": 29667
+    },
+    {
       "filename": "street_01.jpg",
       "source": "File:On an empty road at night (Unsplash).jpg",
       "license": "CC0",
@@ -43,6 +79,18 @@
   ],
   "station": [
     {
+      "filename": "station_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema station",
+      "license": "Original",
+      "bytes": 39875
+    },
+    {
+      "filename": "station_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema station",
+      "license": "Original",
+      "bytes": 40130
+    },
+    {
       "filename": "station_01.jpg",
       "source": "File:Lysekil old train station 2.jpg",
       "license": "CC0",
@@ -53,6 +101,344 @@
       "source": "File:Lysekil old train station 3.jpg",
       "license": "CC0",
       "bytes": 355067
+    }
+  ],
+  "mirror": [
+    {
+      "filename": "mirror_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema mirror",
+      "license": "Original",
+      "bytes": 41705
+    },
+    {
+      "filename": "mirror_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema mirror",
+      "license": "Original",
+      "bytes": 42337
+    },
+    {
+      "filename": "mirror_01.jpg",
+      "source": "File:Miscellany of 17th-century Ornament Print Series- Examples of Antique Chimneypieces, Cabinets, Gueridons, Tables and Mirrors, in addition to Italian Church Facades, by illustrious architects, or a sequel to S. Bosboom MET DP-12235-062.jpg",
+      "license": "CC0",
+      "bytes": 756299
+    },
+    {
+      "filename": "mirror_02.jpg",
+      "source": "File:Mirror, maker unknown, England, c. 1825, wood, gesso, gilt, silvered glass - Brooklyn Museum - DSC09319.JPG",
+      "license": "CC0",
+      "bytes": 464257
+    }
+  ],
+  "sea": [
+    {
+      "filename": "sea_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema sea",
+      "license": "Original",
+      "bytes": 43612
+    },
+    {
+      "filename": "sea_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema sea",
+      "license": "Original",
+      "bytes": 44515
+    },
+    {
+      "filename": "sea_01.jpg",
+      "source": "File:George Bellows - Storm Sea (1913).jpg",
+      "license": "Public domain",
+      "bytes": 414951
+    },
+    {
+      "filename": "sea_02.jpg",
+      "source": "File:Tropical Storm Marcus over Arafura Sea (MODIS 2018-03-17).jpg",
+      "license": "Public domain",
+      "bytes": 390389
+    }
+  ],
+  "stairs": [
+    {
+      "filename": "stairs_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema stairs",
+      "license": "Original",
+      "bytes": 53474
+    },
+    {
+      "filename": "stairs_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema stairs",
+      "license": "Original",
+      "bytes": 54983
+    },
+    {
+      "filename": "stairs_01.jpg",
+      "source": "File:Old Ferry Stairs MET DP-1427-018.jpg",
+      "license": "CC0",
+      "bytes": 232638
+    },
+    {
+      "filename": "stairs_02.jpg",
+      "source": "File:Thomas Rowlandson - Wapping Old Stairs - Google Art Project.jpg",
+      "license": "Public domain",
+      "bytes": 300099
+    }
+  ],
+  "town": [
+    {
+      "filename": "town_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema town",
+      "license": "Original",
+      "bytes": 28804
+    },
+    {
+      "filename": "town_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema town",
+      "license": "Original",
+      "bytes": 28518
+    },
+    {
+      "filename": "town_01.jpg",
+      "source": "File:Oklahoma Ghost Town Map - Schmidt.jpg",
+      "license": "Public domain",
+      "bytes": 242625
+    },
+    {
+      "filename": "town_02.jpg",
+      "source": "File:Foggy forest trail.jpg",
+      "license": "CC0",
+      "bytes": 673196
+    }
+  ],
+  "clock": [
+    {
+      "filename": "clock_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema clock",
+      "license": "Original",
+      "bytes": 45051
+    },
+    {
+      "filename": "clock_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema clock",
+      "license": "Original",
+      "bytes": 45000
+    },
+    {
+      "filename": "clock_01.jpg",
+      "source": "File:Antique Ship Clock.jpg",
+      "license": "CC0",
+      "bytes": 322131
+    },
+    {
+      "filename": "clock_02.jpg",
+      "source": "File:Dorothea A. Farrington, Clock, Antique, 1938, NGA 22510.jpg",
+      "license": "CC0",
+      "bytes": 398493
+    }
+  ],
+  "window": [
+    {
+      "filename": "window_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema window",
+      "license": "Original",
+      "bytes": 41629
+    },
+    {
+      "filename": "window_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema window",
+      "license": "Original",
+      "bytes": 41988
+    },
+    {
+      "filename": "window_01.jpg",
+      "source": "File:Window in Old house typical of the island of Margarita.jpg",
+      "license": "CC0",
+      "bytes": 560083
+    },
+    {
+      "filename": "window_02.jpg",
+      "source": "File:Old window in an old building.jpg",
+      "license": "Public domain",
+      "bytes": 430579
+    }
+  ],
+  "hotel": [
+    {
+      "filename": "hotel_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema hotel",
+      "license": "Original",
+      "bytes": 41378
+    },
+    {
+      "filename": "hotel_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema hotel",
+      "license": "Original",
+      "bytes": 42221
+    },
+    {
+      "filename": "hotel_01.png",
+      "source": "File:Top Corridor, Palace Hotel, San Francisco, from Robert N. Dennis collection of stereoscopic views.png",
+      "license": "Public domain",
+      "bytes": 1612374
+    },
+    {
+      "filename": "hotel_02.jpg",
+      "source": "File:Feet in a hotel corridor (Unsplash).jpg",
+      "license": "CC0",
+      "bytes": 145596
+    }
+  ],
+  "cemetery": [
+    {
+      "filename": "cemetery_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema cemetery",
+      "license": "Original",
+      "bytes": 33724
+    },
+    {
+      "filename": "cemetery_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema cemetery",
+      "license": "Original",
+      "bytes": 34323
+    },
+    {
+      "filename": "cemetery_01.png",
+      "source": "File:Cemetery on dziady night (restored).png",
+      "license": "Public domain",
+      "bytes": 388026
+    },
+    {
+      "filename": "cemetery_02.jpg",
+      "source": "File:Foggy forest - Rinderschinken, St. Jakob in Defereggen, Tyrol.jpg",
+      "license": "CC0",
+      "bytes": 324122
+    }
+  ],
+  "road": [
+    {
+      "filename": "road_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema road",
+      "license": "Original",
+      "bytes": 28524
+    },
+    {
+      "filename": "road_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema road",
+      "license": "Original",
+      "bytes": 27369
+    },
+    {
+      "filename": "road_01.jpg",
+      "source": "File:SNF Tofte FC091013 foggy road (9717521695).jpg",
+      "license": "Public domain",
+      "bytes": 156835
+    },
+    {
+      "filename": "road_02.jpg",
+      "source": "File:Foggy forest trail.jpg",
+      "license": "CC0",
+      "bytes": 673196
+    }
+  ],
+  "school": [
+    {
+      "filename": "school_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema school",
+      "license": "Original",
+      "bytes": 28960
+    },
+    {
+      "filename": "school_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema school",
+      "license": "Original",
+      "bytes": 29510
+    },
+    {
+      "filename": "school_01.jpg",
+      "source": "File:Primrose, Nebraska abandoned school 1.JPG",
+      "license": "CC0",
+      "bytes": 268764
+    },
+    {
+      "filename": "school_02.jpg",
+      "source": "File:Abandoned bus in San Pedro de Atacama (Unsplash).jpg",
+      "license": "CC0",
+      "bytes": 305252
+    }
+  ],
+  "phone": [
+    {
+      "filename": "phone_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema phone",
+      "license": "Original",
+      "bytes": 30410
+    },
+    {
+      "filename": "phone_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema phone",
+      "license": "Original",
+      "bytes": 31227
+    },
+    {
+      "filename": "phone_01.jpg",
+      "source": "File:Old-style British telephone booth.jpg",
+      "license": "CC0",
+      "bytes": 803517
+    },
+    {
+      "filename": "phone_02.jpg",
+      "source": "File:Foggy Forest (256920249).jpeg",
+      "license": "CC0",
+      "bytes": 397303
+    }
+  ],
+  "lake": [
+    {
+      "filename": "lake_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema lake",
+      "license": "Original",
+      "bytes": 46305
+    },
+    {
+      "filename": "lake_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema lake",
+      "license": "Original",
+      "bytes": 46617
+    },
+    {
+      "filename": "lake_01.jpg",
+      "source": "File:Bison in the fog, Swan Lake Flat (28c6f11c-0a18-4e46-876a-d6c203789956).jpg",
+      "license": "Public domain",
+      "bytes": 226243
+    },
+    {
+      "filename": "lake_02.jpg",
+      "source": "File:August Cappelen - Lake in Fog - NG.M.02411 - National Museum of Art, Architecture and Design.jpg",
+      "license": "Public domain",
+      "bytes": 329598
+    }
+  ],
+  "sky": [
+    {
+      "filename": "sky_editorial_02.jpg",
+      "source": "Ilustración original X Editorial, tema sky",
+      "license": "Original",
+      "bytes": 32742
+    },
+    {
+      "filename": "sky_editorial_01.jpg",
+      "source": "Ilustración original X Editorial, tema sky",
+      "license": "Original",
+      "bytes": 31913
+    },
+    {
+      "filename": "sky_01.jpg",
+      "source": "File:Foggy Forest (256920249).jpeg",
+      "license": "CC0",
+      "bytes": 397303
+    },
+    {
+      "filename": "sky_02.jpg",
+      "source": "File:Foggy forest - Rinderschinken, St. Jakob in Defereggen, Tyrol.jpg",
+      "license": "CC0",
+      "bytes": 324122
     }
   ]
 }
