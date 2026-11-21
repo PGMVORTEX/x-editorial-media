@@ -1,0 +1,58 @@
+{
+  "house": [
+    {
+      "filename": "house_01.jpg",
+      "source": "File:Abandoned house in Teriberka.jpg",
+      "license": "CC0",
+      "bytes": 375596
+    },
+    {
+      "filename": "house_02.jpg",
+      "source": "File:Boarded up house in Hiroo.jpg",
+      "license": "CC0",
+      "bytes": 857662
+    }
+  ],
+  "forest": [
+    {
+      "filename": "forest_01.jpg",
+      "source": "File:Foggy Forest - Castel Vittorio, Liguria.jpg",
+      "license": "CC0",
+      "bytes": 99468
+    },
+    {
+      "filename": "forest_02.jpg",
+      "source": "File:Foggy Forest (256920249).jpeg",
+      "license": "CC0",
+      "bytes": 397303
+    }
+  ],
+  "street": [
+    {
+      "filename": "street_01.jpg",
+      "source": "File:On an empty road at night (Unsplash).jpg",
+      "license": "CC0",
+      "bytes": 352186
+    },
+    {
+      "filename": "street_02.jpg",
+      "source": "File:An Empty Pearl Street Mall at Night During the Height of COVID, Boulder, Colorado.jpg",
+      "license": "CC0",
+      "bytes": 272129
+    }
+  ],
+  "station": [
+    {
+      "filename": "station_01.jpg",
+      "source": "File:Lysekil old train station 2.jpg",
+      "license": "CC0",
+      "bytes": 321132
+    },
+    {
+      "filename": "station_02.jpg",
+      "source": "File:Lysekil old train station 3.jpg",
+      "license": "CC0",
+      "bytes": 355067
+    }
+  ]
+}
