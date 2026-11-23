@@ -1,0 +1,85 @@
+{
+  "triangle1911": {
+    "url": "https://docsteach.org/wp-content/uploads/documents/6040082/primary_6587_20201208112026.jpg",
+    "source": "U.S. National Archives (NARA), NAI 6040082, vía DocsTeach",
+    "credit": "FOTO REAL • ARCHIVO NACIONAL DE EE. UU.",
+    "license": "Dominio público (DocsTeach / NARA)",
+    "verification": "https://docsteach.org/document/building-interior-triangle-shirtwaist-factory-fire/",
+    "filename": "casos/triangle1911.jpg",
+    "asset_id": "triangle1911",
+    "date_event": "25 de marzo de 1911",
+    "case_id": "real-premium-triangle-1911",
+    "kind": "archivo",
+    "image_label": "FOTO REAL • ARCHIVO NACIONAL DE EE. UU."
+  },
+  "apollo13": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/s70-35139.jpg",
+    "source": "NASA, Mission Control, Houston, 13 abril 1970 (S70-35139)",
+    "credit": "FOTOGRAFÍA REAL • NASA, 1970",
+    "license": "Material NASA; ver NASA Media Usage Guidelines",
+    "verification": "https://www.nasa.gov/image-article/mission-control-houston-april-13-1970/",
+    "filename": "casos/apollo13.jpg",
+    "asset_id": "apollo13",
+    "date_event": "13–17 de abril de 1970",
+    "case_id": "real-premium-apolo13-1970",
+    "kind": "archivo",
+    "image_label": "FOTOGRAFÍA REAL • NASA, 1970"
+  },
+  "nyos1986": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/86000/86244/lakenyos_oli_2014352.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "source": "NASA Earth Observatory, imagen del lago Nyos captada en 2014, no de 1986",
+    "credit": "FOTO REAL DEL LAGO • NASA, 2014",
+    "license": "Material NASA; ver NASA Media Usage Guidelines",
+    "verification": "https://science.nasa.gov/earth/earth-observatory/lake-nyos-cameroon-86244/",
+    "filename": "casos/nyos1986.jpg",
+    "asset_id": "nyos1986",
+    "date_event": "21 de agosto de 1986",
+    "case_id": "real-premium-nyos-1986",
+    "kind": "archivo",
+    "image_label": "FOTO REAL DEL LAGO • NASA, 2014"
+  },
+  "melaza1919": {
+    "source": "X Editorial / ilustración propia desde street_editorial_01.jpg",
+    "license": "Ilustración original",
+    "verification": "Archivo original de X Editorial",
+    "filename": "casos/melaza1919.jpg",
+    "asset_id": "melaza1919",
+    "date_event": "15 de enero de 1919",
+    "case_id": "real-premium-melaza-1919",
+    "kind": "recreacion",
+    "image_label": "ILUSTRACIÓN ORIGINAL • NO ES UNA FOTO DEL HECHO"
+  },
+  "galveston1900": {
+    "source": "X Editorial / ilustración propia desde sea_editorial_02.jpg",
+    "license": "Ilustración original",
+    "verification": "Archivo original de X Editorial",
+    "filename": "casos/galveston1900.jpg",
+    "asset_id": "galveston1900",
+    "date_event": "8 de septiembre de 1900",
+    "case_id": "real-premium-galveston-1900",
+    "kind": "recreacion",
+    "image_label": "ILUSTRACIÓN ORIGINAL • NO ES UNA FOTO DEL HECHO"
+  },
+  "franklin1845": {
+    "source": "X Editorial / ilustración propia desde sea_editorial_01.jpg",
+    "license": "Ilustración original",
+    "verification": "Archivo original de X Editorial",
+    "filename": "casos/franklin1845.jpg",
+    "asset_id": "franklin1845",
+    "date_event": "1845–1848; hallazgos en 2014 y 2016",
+    "case_id": "real-premium-franklin-1845",
+    "kind": "recreacion",
+    "image_label": "ILUSTRACIÓN ORIGINAL • NO ES UNA FOTO DEL HECHO"
+  },
+  "isdal1970": {
+    "source": "X Editorial / ilustración propia desde forest_editorial_02.jpg",
+    "license": "Ilustración original",
+    "verification": "Archivo original de X Editorial",
+    "filename": "casos/isdal1970.jpg",
+    "asset_id": "isdal1970",
+    "date_event": "29 de noviembre de 1970",
+    "case_id": "real-premium-isdal-1970",
+    "kind": "recreacion",
+    "image_label": "ILUSTRACIÓN ORIGINAL • NO ES UNA FOTO DEL HECHO"
+  }
+}
